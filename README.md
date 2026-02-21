@@ -1,24 +1,21 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/PaHorton?label=Followers&style=flat-square)](https://github.com/PaHorton)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Paul Horton. I'm a PhD in Exploration Systems Design at Arizona State University's School of Earth and Space Exploration. I work on research and engineering projects spanning scientific instrumentation, hackathon projects, and lightweight software tools with a focus on Python and TypeScript.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Lowell, MA
+- 🎓 Education: Arizona State University
+- 📅 Hacking Since: 2015
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 PaHorton.github.io — Personal website. (HTML) — github.com/PaHorton/PaHorton.github.io
+- 🛠️ graph-dashboard — Old dashboard made for graphing data. (Python) — github.com/PaHorton/graph-dashboard
+- 🤖 dissertation — Dissertation writing and source project. (TeX) — github.com/PaHorton/dissertation
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, Python, TeX, HTML
+- 🔭 Focus: Exploration systems design, scientific software, hackathon tooling
+- ❤️ Interests: Space exploration, student hackathons, data visualization
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
