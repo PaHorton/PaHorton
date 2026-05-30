@@ -1,24 +1,57 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# It looks like you're launching: Paul.exe
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+[![GitHub Profile](https://img.shields.io/badge/GitHub-PaHorton-0078D7?style=flat-square)](https://github.com/PaHorton)
+[![Followers](https://img.shields.io/github/followers/PaHorton?label=Followers&style=flat-square)](https://github.com/PaHorton?tab=followers)
+[![MLH](https://img.shields.io/badge/MLH-Coach-1E7145?style=flat-square)](https://mlh.io/)
+[![Website](https://img.shields.io/badge/Website-hortonpaul.com-FFB900?style=flat-square)](https://hortonpaul.com)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+> Hi there. It looks like you're trying to meet **Paul Horton**.
+> 
+> Would you like help getting started?
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## Welcome Center
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+Hello, I am Clippy, your overly enthusiastic setup assistant from the golden days of desktop computing.
+Today I am pleased to introduce a powerful new Vista-compatible experience: **Paul Horton**.
+
+Paul is a systems-minded builder working at the intersection of research, education, and hackathon community support.
+
+- Name: Paul Horton
+- GitHub Handle: [@PaHorton](https://github.com/PaHorton)
+- Role: Systems Engineer, University of Massachusetts Lowell
+- Also: MLH Coach, Postdoctoral Researcher
+- Location: Lowell, MA
+- Website: [hortonpaul.com](https://hortonpaul.com)
+- Bio Snapshot: PhD in Exploration Systems Design
+
+## Installed Components
+
+### Account Stats
+
+- Public repositories: 38
+- Public gists: 2
+- Followers: 28
+- Following: 5
+- GitHub member since: 2015
+
+### Education Module
+
+- Arizona State University
+- Major: Exploration Systems Design
+
+### Experience Module
+
+- Coach at Major League Hacking
+- Postdoctoral Researcher at University of Massachusetts Lowell
+- Systems Engineer at University of Massachusetts Lowell
+
+## Recommended Actions
+
+1. Explore active projects on [github.com/PaHorton](https://github.com/PaHorton?tab=repositories)
+2. Connect through [hortonpaul.com](https://hortonpaul.com)
+3. Follow along for hackathon and research builds
+
+> Tip: For best performance, run with curiosity enabled and coffee drivers up to date.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
